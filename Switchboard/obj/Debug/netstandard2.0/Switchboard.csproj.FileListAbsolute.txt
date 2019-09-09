@@ -1,0 +1,9 @@
+C:\Users\MaxClifford\source\repos\Switchboard\Switchboard\obj\Debug\netstandard2.0\Switchboard.csprojAssemblyReference.cache
+C:\Users\MaxClifford\source\repos\Switchboard\Switchboard\obj\Debug\netstandard2.0\Switchboard.csproj.CoreCompileInputs.cache
+C:\Users\MaxClifford\source\repos\Switchboard\Switchboard\obj\Debug\netstandard2.0\Switchboard.AssemblyInfoInputs.cache
+C:\Users\MaxClifford\source\repos\Switchboard\Switchboard\obj\Debug\netstandard2.0\Switchboard.AssemblyInfo.cs
+C:\Users\MaxClifford\source\repos\Switchboard\Switchboard\bin\Debug\netstandard2.0\Switchboard.deps.json
+C:\Users\MaxClifford\source\repos\Switchboard\Switchboard\bin\Debug\netstandard2.0\Switchboard.dll
+C:\Users\MaxClifford\source\repos\Switchboard\Switchboard\bin\Debug\netstandard2.0\Switchboard.pdb
+C:\Users\MaxClifford\source\repos\Switchboard\Switchboard\obj\Debug\netstandard2.0\Switchboard.dll
+C:\Users\MaxClifford\source\repos\Switchboard\Switchboard\obj\Debug\netstandard2.0\Switchboard.pdb

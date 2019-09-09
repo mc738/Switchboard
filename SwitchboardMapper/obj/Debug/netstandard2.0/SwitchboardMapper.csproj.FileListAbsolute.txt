@@ -1,0 +1,12 @@
+C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapper\obj\Debug\netstandard2.0\SwitchboardMapper.csprojAssemblyReference.cache
+C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapper\obj\Debug\netstandard2.0\SwitchboardMapper.csproj.CoreCompileInputs.cache
+C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapper\obj\Debug\netstandard2.0\SwitchboardMapper.AssemblyInfoInputs.cache
+C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapper\obj\Debug\netstandard2.0\SwitchboardMapper.AssemblyInfo.cs
+C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapper\bin\Debug\netstandard2.0\SwitchboardMapper.deps.json
+C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapper\bin\Debug\netstandard2.0\SwitchboardMapper.dll
+C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapper\bin\Debug\netstandard2.0\SwitchboardMapper.pdb
+C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapper\bin\Debug\netstandard2.0\Switchboard.dll
+C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapper\bin\Debug\netstandard2.0\Switchboard.pdb
+C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapper\obj\Debug\netstandard2.0\SwitchboardMapper.csproj.CopyComplete
+C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapper\obj\Debug\netstandard2.0\SwitchboardMapper.dll
+C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapper\obj\Debug\netstandard2.0\SwitchboardMapper.pdb

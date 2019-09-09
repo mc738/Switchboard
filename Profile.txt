@@ -1,0 +1,2 @@
+FooProfile:Id FooName Child.FooChildName
+BarProfile:Id BarName Child.BarChildName

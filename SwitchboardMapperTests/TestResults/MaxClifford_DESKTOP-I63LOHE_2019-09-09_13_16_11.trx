@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="19167951-cd0b-42c0-9849-5fee5214f976" name="MaxClifford@DESKTOP-I63LOHE 2019-09-09 13:16:11" runUser="AzureAD\MaxClifford" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2019-09-09T13:16:11.3345656+01:00" queuing="2019-09-09T13:16:11.3345656+01:00" start="2019-09-09T13:16:10.4589522+01:00" finish="2019-09-09T13:16:11.3463851+01:00" />
+  <TestSettings name="default" id="facb8211-ceac-48e2-a3bd-d4f66a132a71">
+    <Deployment runDeploymentRoot="MaxClifford_DESKTOP-I63LOHE_2019-09-09_13_16_11" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="0ce77eb0-1c86-4070-b366-6aa7333dbdc3" testId="b62e20a5-b533-4c3f-a8f4-ad1be0c14102" testName="CreateObject_MapObjectToChild_Success" computerName="DESKTOP-I63LOHE" duration="00:00:00.0003993" startTime="2019-09-09T13:16:11.1606162+01:00" endTime="2019-09-09T13:16:11.1610653+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0ce77eb0-1c86-4070-b366-6aa7333dbdc3" />
+    <UnitTestResult executionId="b32a9b60-7c3a-4fbc-a0ca-2c23c62a0855" testId="f1029fc3-f88b-7a6f-ad22-2e99b4d4c229" testName="TestMethod1" computerName="DESKTOP-I63LOHE" duration="00:00:00.0054744" startTime="2019-09-09T13:16:11.1065243+01:00" endTime="2019-09-09T13:16:11.1407428+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b32a9b60-7c3a-4fbc-a0ca-2c23c62a0855" />
+    <UnitTestResult executionId="10efeb22-c243-4b1b-94c9-8686cbc65f2b" testId="0cea609d-936c-1d50-9afb-c1f99baf31ab" testName="CreateObject_MapFullObjectToFullObject_Success" computerName="DESKTOP-I63LOHE" duration="00:00:00.0008075" startTime="2019-09-09T13:16:11.1614994+01:00" endTime="2019-09-09T13:16:11.1623552+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="10efeb22-c243-4b1b-94c9-8686cbc65f2b" />
+    <UnitTestResult executionId="31d3fd1e-6677-4e86-950d-ef6c73154d87" testId="14f297c7-6bc8-2e69-64cf-14483131fd62" testName="CreateObject_MapChildToChild_Success" computerName="DESKTOP-I63LOHE" duration="00:00:00.0003461" startTime="2019-09-09T13:16:11.1610733+01:00" endTime="2019-09-09T13:16:11.1614919+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="31d3fd1e-6677-4e86-950d-ef6c73154d87" />
+    <UnitTestResult executionId="d3e560fe-5a3d-4a91-b324-5db0e307fb32" testId="b5e54903-e4bf-0b8d-7e30-a5e61eaaab2c" testName="CreateObject_MapChildToObject_Success" computerName="DESKTOP-I63LOHE" duration="00:00:00.0004167" startTime="2019-09-09T13:16:11.1601160+01:00" endTime="2019-09-09T13:16:11.1606073+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d3e560fe-5a3d-4a91-b324-5db0e307fb32" />
+    <UnitTestResult executionId="dd89c2e2-2046-4951-8767-d46673d64d2c" testId="4f2205ba-77e6-91d5-2680-9dbc6f5433b7" testName="CreateObject_MapObjectToObject_Success" computerName="DESKTOP-I63LOHE" duration="00:00:00.0102740" startTime="2019-09-09T13:16:11.1495631+01:00" endTime="2019-09-09T13:16:11.1600717+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dd89c2e2-2046-4951-8767-d46673d64d2c" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="CreateObject_MapChildToChild_Success" storage="c:\users\maxclifford\source\repos\switchboard\switchboardmappertests\bin\debug\netcoreapp2.1\switchboardmappertests.dll" id="14f297c7-6bc8-2e69-64cf-14483131fd62">
+      <Execution id="31d3fd1e-6677-4e86-950d-ef6c73154d87" />
+      <TestMethod codeBase="C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapperTests\bin\Debug\netcoreapp2.1\SwitchboardMapperTests.dll" adapterTypeName="executor://mstestadapter/v2" className="SwitchboardMapperTests.UnitTests.CreateObjectUnitTests" name="CreateObject_MapChildToChild_Success" />
+    </UnitTest>
+    <UnitTest name="CreateObject_MapObjectToObject_Success" storage="c:\users\maxclifford\source\repos\switchboard\switchboardmappertests\bin\debug\netcoreapp2.1\switchboardmappertests.dll" id="4f2205ba-77e6-91d5-2680-9dbc6f5433b7">
+      <Execution id="dd89c2e2-2046-4951-8767-d46673d64d2c" />
+      <TestMethod codeBase="C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapperTests\bin\Debug\netcoreapp2.1\SwitchboardMapperTests.dll" adapterTypeName="executor://mstestadapter/v2" className="SwitchboardMapperTests.UnitTests.CreateObjectUnitTests" name="CreateObject_MapObjectToObject_Success" />
+    </UnitTest>
+    <UnitTest name="CreateObject_MapFullObjectToFullObject_Success" storage="c:\users\maxclifford\source\repos\switchboard\switchboardmappertests\bin\debug\netcoreapp2.1\switchboardmappertests.dll" id="0cea609d-936c-1d50-9afb-c1f99baf31ab">
+      <Execution id="10efeb22-c243-4b1b-94c9-8686cbc65f2b" />
+      <TestMethod codeBase="C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapperTests\bin\Debug\netcoreapp2.1\SwitchboardMapperTests.dll" adapterTypeName="executor://mstestadapter/v2" className="SwitchboardMapperTests.UnitTests.CreateObjectUnitTests" name="CreateObject_MapFullObjectToFullObject_Success" />
+    </UnitTest>
+    <UnitTest name="CreateObject_MapChildToObject_Success" storage="c:\users\maxclifford\source\repos\switchboard\switchboardmappertests\bin\debug\netcoreapp2.1\switchboardmappertests.dll" id="b5e54903-e4bf-0b8d-7e30-a5e61eaaab2c">
+      <Execution id="d3e560fe-5a3d-4a91-b324-5db0e307fb32" />
+      <TestMethod codeBase="C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapperTests\bin\Debug\netcoreapp2.1\SwitchboardMapperTests.dll" adapterTypeName="executor://mstestadapter/v2" className="SwitchboardMapperTests.UnitTests.CreateObjectUnitTests" name="CreateObject_MapChildToObject_Success" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\users\maxclifford\source\repos\switchboard\switchboardmappertests\bin\debug\netcoreapp2.1\switchboardmappertests.dll" id="f1029fc3-f88b-7a6f-ad22-2e99b4d4c229">
+      <Execution id="b32a9b60-7c3a-4fbc-a0ca-2c23c62a0855" />
+      <TestMethod codeBase="C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapperTests\bin\Debug\netcoreapp2.1\SwitchboardMapperTests.dll" adapterTypeName="executor://mstestadapter/v2" className="SwitchboardMapperTests.UnitTest1" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="CreateObject_MapObjectToChild_Success" storage="c:\users\maxclifford\source\repos\switchboard\switchboardmappertests\bin\debug\netcoreapp2.1\switchboardmappertests.dll" id="b62e20a5-b533-4c3f-a8f4-ad1be0c14102">
+      <Execution id="0ce77eb0-1c86-4070-b366-6aa7333dbdc3" />
+      <TestMethod codeBase="C:\Users\MaxClifford\source\repos\Switchboard\SwitchboardMapperTests\bin\Debug\netcoreapp2.1\SwitchboardMapperTests.dll" adapterTypeName="executor://mstestadapter/v2" className="SwitchboardMapperTests.UnitTests.CreateObjectUnitTests" name="CreateObject_MapObjectToChild_Success" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="b62e20a5-b533-4c3f-a8f4-ad1be0c14102" executionId="0ce77eb0-1c86-4070-b366-6aa7333dbdc3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f1029fc3-f88b-7a6f-ad22-2e99b4d4c229" executionId="b32a9b60-7c3a-4fbc-a0ca-2c23c62a0855" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0cea609d-936c-1d50-9afb-c1f99baf31ab" executionId="10efeb22-c243-4b1b-94c9-8686cbc65f2b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="14f297c7-6bc8-2e69-64cf-14483131fd62" executionId="31d3fd1e-6677-4e86-950d-ef6c73154d87" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b5e54903-e4bf-0b8d-7e30-a5e61eaaab2c" executionId="d3e560fe-5a3d-4a91-b324-5db0e307fb32" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4f2205ba-77e6-91d5-2680-9dbc6f5433b7" executionId="dd89c2e2-2046-4951-8767-d46673d64d2c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="6" executed="6" passed="6" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
